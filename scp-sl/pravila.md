@@ -1,3 +1,22 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+---
+
 # Правила
 
 Данный документ предназначен для прочтения перед игрой на сервере <mark style="color:$info;background-color:orange;">Milkis</mark>. Мы за комфортную и приятную игру, так что соблюдение правил **строго обязательно**.
