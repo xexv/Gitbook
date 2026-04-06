@@ -10,11 +10,12 @@
 
 ## SCP:SL
 
+* [Общие Правила](scp-sl/obshie-pravila.md)
 * [Регламент сотрудников SCP:SL](scp-sl/reglament-sotrudnikov-scp-sl.md)
 * [Events](scp-sl/events/README.md)
-  * [Сотрудника Events](scp-sl/events/sotrudnika-events.md)
+  * [Правила сотрудников](scp-sl/events/pravila-sotrudnikov.md)
+  * [Правила проведения Ивента](scp-sl/events/pravila-provedeniya-iventa.md)
   * [RP - правила](scp-sl/events/rp-pravila.md)
-  * [Правила](scp-sl/events/pravila.md)
   * [Список Ивентов](scp-sl/events/spisok-iventov.md)
 
 ## Info
